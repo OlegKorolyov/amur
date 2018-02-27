@@ -1,0 +1,2 @@
+# amur
+amur info resource
